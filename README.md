@@ -23,5 +23,5 @@ Deploy erc721 contract know as nft, with mint and transfer token
 
 4. Trasfer token ( set receivers account in scripts/transfer-token.js )
 
-   truffle exec scripts/transfer-token.js --network rinkeby (change network : matic, matictest)
+   truffle exec scripts/mint-nft.js --network rinkeby (change network : matic, matictest)
 
